@@ -1,4 +1,4 @@
-<h1 align="center">Hola👋, Me llamo Jose Darling</h1>
+<h1 align="center">Hola👋, Me llamo Jose Darlin</h1>
 <h3 align="center">Soy un programador Frontend apasionado</h3>
 
 - 💬 Ask me about **html, css, php y javascript**
