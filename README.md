@@ -22,19 +22,12 @@
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-oj98kzakq.vercel.app/api?username=josedarlingabreu&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Jose%20Darlin%20de%20Oleo"/>
-  <img height="180em" src="https://github-readme-stats-oj98kzakq.vercel.app/api/top-langs/?username=josedarlingabreu&layout=compact&langs_count=8&theme=github_dark&hide_border=true&custom_title=Most%20Used%20Languages"/>
-</div>
-
----
-
-### 🔥 Streak Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josedarlingabreu&theme=github-dark-blue&hide_border=true" />
+<div align="left">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=josedarlingabreu&theme=transparent&border_radius=8.8" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
