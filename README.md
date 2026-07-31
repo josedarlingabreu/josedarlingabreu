@@ -12,26 +12,23 @@
   </a>
 </p>
 
----
+<h3 align="left">About Me</h3>
 
-### About Me
+<ul>
+  <li>I am a <strong>Fullstack Developer</strong> from <strong>Dominican Republic</strong>.</li>
+  <li>Tech Stack: <code>.html</code> <code>.css</code> <code>.js</code> <code>.php</code> <code>.react</code> <code>.py</code></li>
+  <li>Always learning and building cool stuff.</li>
+</ul>
 
-- 🚀 I am a **Fullstack Developer** from **Dominican Republic** 🇩🇴
-- 🛠️ Techstack: `.html` `.css` `.js` `.php` `.react` `.py`
-- 💡 Always learning and building cool stuff
+<h3 align="left">GitHub Stats</h3>
 
----
-
-### 📊 GitHub Stats
-
-<div align="left">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=josedarlingabreu&theme=transparent&border_radius=8.8" alt="GitHub Streak" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=josedarlingabreu&color=f778ba&style=flat-square" />
-</div>
+<p align="left">
+  <img
+    height="170"
+    src="https://github-readme-stats.shion.dev/api?username=josedarlingabreu&theme=tokyonight&hide_border=true"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=josedarlingabreu&theme=tokyonight&hide_border=true&layout=compact"
+  />
+</p>
