@@ -5,10 +5,10 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
   <a href="mailto:josedarlingabreu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=flat-square&logo=gmail&logoColor=EA4335" />
   </a>
   <a href="https://linkedin.com/in/josedarlingabreu">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-333333?style=flat-square&logo=linkedin&logoColor=0A66C2" />
   </a>
 </p>
 
