@@ -7,9 +7,7 @@
   <a href="mailto:josedarlingabreu@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=flat-square&logo=gmail&logoColor=EA4335" />
   </a>
-  <a href="www.linkedin.com/in/
-jose-darlin-de-oleo-abreu-76610230a
-">
+  <a href="https://www.linkedin.com/in/jose-darlin-de-oleo-abreu-76610230a">
     <img src="https://img.shields.io/badge/LinkedIn-333333?style=flat-square&logo=linkedin&logoColor=0A66C2" />
   </a>
 </p>
