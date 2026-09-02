@@ -17,7 +17,6 @@
 <ul>
   <li>I am a <strong>Fullstack Developer</strong> from <strong><a href="https://www.youtube.com/watch?v=pXw-XxPAyJo">Dominican Republic</a></strong></li>
   <li>Tech Stack: <code>.html</code> <code>.css</code> <code>.js</code> <code>.php</code> <code>.react</code> <code>.py</code></li>
-  <li>Visit my <strong><a href="">Personal website</a></strong></li>
   <li>Always learning and building cool stuff</li>
 </ul>
 
