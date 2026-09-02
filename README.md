@@ -26,10 +26,10 @@
 <p align="left">
   <img
     height="170"
-    src="https://github-readme-stats.shion.dev/api?username=josedarlingabreu&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.shion.dev/api?username=josedarlingabreu&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false"
   />
   <img
     height="170"
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=josedarlingabreu&theme=tokyonight&hide_border=true&layout=compact"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=josedarlingabreu&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
   />
 </p>
